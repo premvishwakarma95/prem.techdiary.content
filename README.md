@@ -99,6 +99,8 @@ Always repeat this theme in your videos:- `This is my tech diary where I share m
 
 ---
 
+## Phase 7 - Tell About the family like ( GrandFather, father, mother).
+
 ## 📊 Progress Tracker
 
 | Phase | Videos | Status |
