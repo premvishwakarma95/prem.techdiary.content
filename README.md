@@ -116,3 +116,33 @@ Always repeat this theme in your videos:- `This is my tech diary where I share m
 ---
 
 > ⭐ *Star this repo to stay updated with the content journey!*
+
+--- 
+
+## Content list
+1) who am i, what you will learn from my channel?
+2) Today i will show the tropy and cerficates that i got in my college.
+3) when i started coding how i feel and wanted to quit why?
+4) how i started my full stack developer journey?
+5) In this i am about to tell the roadmap of full stack developer?
+6) I will share you the best sources for full stack?
+7) Today i wll tell you how i got my first job?
+8) Today i will tell you my interview experience when i was a fresher?
+9) Today i am about to tell the sources how you can crack the interview as a fresher?
+10) Today i will tell my recent experience of interviews i mean about the problem.
+11) Today i will tell how I work in company and what my role in company?
+12) Work environment about the company?
+13) today i will share you some incident that happened in company like (converstation with manager) like there was problem i was not able to fix it then my manager tried to get solution and get it then i implemented in the way?
+14) Today i will tell you how started my english speaking skill (golu bhai teach me sentence)?
+15) Why English is important for developers
+16) Today i will share you roadmap and how you can be fluent?
+17) Today i will share you platform where you can practice (show gemini)?
+18) Today i am about to tell the english learn channel?
+19) Hello everyone today i am about to show you my office.
+20) hello everyone today i am about to show my collegues and office mate?
+21) hello guys today i am about to show my portfolio?
+22) Today i will tell about the n8n?
+23) Today i will tell you about the vapi?
+24) Today i will tell you about the OpenClaw?
+25) Some life stories.
+26) Project proble about the withzibi call functionality?
