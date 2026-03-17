@@ -147,3 +147,4 @@ Always repeat this theme in your videos:- `This is my tech diary where I share m
 25) Some life stories.
 26) Project proble about the withzibi call functionality?
 27) What is MCP server?
+28) manager told me to convert vibe coding to more vibe coding means create Prompt that will be fit in all projects.
