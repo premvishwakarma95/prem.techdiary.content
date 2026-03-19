@@ -151,3 +151,6 @@ Always repeat this theme in your videos:- `This is my tech diary where I share m
 29) How exactly do vibe coding steps to follow. see this doc - https://docs.google.com/document/d/1rRhMlKmLTwfCyNg4yekoDtEzK_qg11v-P9mn7rliexM/edit?tab=t.1jvo99z501c9
 30) How to setup claude in terminal.
 31) How to tunnel localhost for shareable link using (ngrok). And we can check my own specific directory for that?
+32) Tell about vibe coding.
+33) share about roadmap.sh website for roadmap.
+34) Tell about `instagram videos that i have shared in prem.techdiary whatsapp group`.
