@@ -153,4 +153,5 @@ Always repeat this theme in your videos:- `This is my tech diary where I share m
 31) How to tunnel localhost for shareable link using (ngrok). And we can check my own specific directory for that?
 32) Tell about vibe coding.
 33) share about roadmap.sh website for roadmap.
-34) Tell about `instagram videos that i have shared in prem.techdiary whatsapp group`.
+34) Explain about vector DB.
+35) Tell about `instagram videos that i have shared in prem.techdiary whatsapp group`.
